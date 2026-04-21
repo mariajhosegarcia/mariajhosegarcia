@@ -7,8 +7,8 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ## Sobre Mí
 
-- Especialista en la personalización e integración de **ERPNext**. He liderado proyectos críticos de localización fiscal para **Honduras, El Salvador y Costa Rica**, asegurando que las empresas cumplan con normativas legales mediante automatización.
-- Licenciada en Informática Administrativa. La tecnología es mi lenguaje, pero la educación es mi legado; vengo de una familia de maestras y aspiro a la docencia universitaria.
+- Especialista en la personalización e integración de **ERPNext**. He liderado proyectos críticos de localización fiscal para **Honduras, El Salvador y Costa Rica**, asegurando que las empresas cumplan con normativas legales.
+- Graduada como licenciada en Informática Administrativa, me desempeño como desarrolladora profesional y aspiro a tener la oportunidad de ejercer como docente universitaria.
 - Comparto mi viaje y conocimientos a través de tutoriales en **YouTube** y cursos en **Udemy**. Creo firmemente que "enseñar es aprender dos veces".
 - Me encanta el equilibrio entre lo funcional y lo visualmente profesional, siempre cuidando el detalle en cada línea de código.
 
