@@ -1,4 +1,4 @@
-# ¡Hola! Soy Maria Jhosé Garcia 👋✨
+# ¡Hola! Soy María Jhosé García
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -10,7 +10,7 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ---
 
-## 🌟 Sobre Mí
+## Sobre Mí
 
 - Especialista en la personalización e integración de **ERPNext**. He liderado proyectos críticos de localización fiscal para **Honduras, El Salvador y Costa Rica**, asegurando que las empresas cumplan con normativas legales mediante automatización.
 - Licenciada en Informática Administrativa. La tecnología es mi lenguaje, pero la educación es mi legado; vengo de una familia de maestras y aspiro a la docencia universitaria.
@@ -19,7 +19,7 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div>
 
@@ -35,7 +35,7 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ---
 
-## 💜 Conectemos
+## Conectemos
 
 ¡Me encanta colaborar en proyectos que desafíen los procesos convencionales! Puedes encontrarme en:
 
@@ -47,7 +47,7 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariajhosegarcia&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Maria" /><br>
