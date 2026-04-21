@@ -1,8 +1,8 @@
+# ¡Hola! soy María Jhosé García
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
-# ¡Hola! Soy María Jhosé García
 
 ### Desarrolladora de sistemas | Educadora TECH
 
