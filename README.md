@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-### 💻 Desarrolladora de Software | 📚 Educadora Tech
+### Desarrolladora de Software | Educadora Tech
 
 Soy una apasionada de la tecnología que convirtió un hobby de la infancia en una carrera sólida y orientada a resultados. Con **más de 4 años de experiencia profesional** (y más de una década experimentando con código), me especializo en transformar procesos de negocio complejos en soluciones digitales eficientes y escalables.
 
@@ -12,16 +12,16 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 ## 🌟 Sobre Mí
 
-- 🏢 **Impacto Profesional:** Especialista en la personalización e integración de **ERPNext**. He liderado proyectos críticos de localización fiscal para **Honduras, El Salvador y Costa Rica**, asegurando que las empresas cumplan con normativas legales mediante automatización.
-- 🎓 **Formación:** Licenciada en Informática Administrativa. La tecnología es mi lenguaje, pero la educación es mi legado; vengo de una familia de maestras y aspiro a la docencia universitaria.
-- 🎙️ **Comunidad:** Comparto mi viaje y conocimientos a través de tutoriales en **YouTube** y cursos en **Udemy**. Creo firmemente que "enseñar es aprender dos veces".
-- 🎨 **Estética y Código:** Me encanta el equilibrio entre lo funcional y lo visualmente profesional, siempre cuidando el detalle en cada línea de código.
+- Especialista en la personalización e integración de **ERPNext**. He liderado proyectos críticos de localización fiscal para **Honduras, El Salvador y Costa Rica**, asegurando que las empresas cumplan con normativas legales mediante automatización.
+- Licenciada en Informática Administrativa. La tecnología es mi lenguaje, pero la educación es mi legado; vengo de una familia de maestras y aspiro a la docencia universitaria.
+- Comparto mi viaje y conocimientos a través de tutoriales en **YouTube** y cursos en **Udemy**. Creo firmemente que "enseñar es aprender dos veces".
+- Me encanta el equilibrio entre lo funcional y lo visualmente profesional, siempre cuidando el detalle en cada línea de código.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+<div>
 
 | Categoría | Herramientas y Lenguajes |
 | :--- | :--- |
@@ -32,16 +32,6 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 | **DevOps & Testing** | `Git` `Docker` `Pytest` `Cypress` `CI/CD` |
 
 </div>
-
----
-
-## 📈 Resultados que Entrego
-
-Mi enfoque no es solo escribir código, sino generar valor real para las empresas y usuarios:
-
-1.  **Optimización de Flujos:** Implementación de automatizaciones en flujos de trabajo (GitHub/GitLab) que reducen el tiempo de despliegue y minimizan errores manuales.
-2.  **Cumplimiento Legal y Fiscal:** Adaptación técnica de sistemas ERP a regulaciones complejas, facilitando la operatividad legal en múltiples países de la región.
-3.  **Desarrollo Híbrido Eficiente:** Creación de aplicaciones móviles ágiles con Apache Cordova y Vue.js que permiten a las empresas llevar su gestión al bolsillo del usuario.
 
 ---
 
@@ -60,13 +50,12 @@ Mi enfoque no es solo escribir código, sino generar valor real para las empresa
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariajhosegarcia&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Maria" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariajhosegarcia&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Maria" /><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajhosegarcia&layout=compact&theme=tokyonight" alt="Lenguajes de Maria" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%">
   <i>"El código es el pincel con el que pinto soluciones para el mundo real."</i>
 </p>
