@@ -4,7 +4,6 @@
 
 Soy una apasionada de la tecnología que convirtió un hobby de la infancia en una carrera sólida y orientada a resultados. Con **más de 4 años de experiencia profesional** (y más de una década experimentando con código), me especializo en transformar procesos de negocio complejos en soluciones digitales eficientes y escalables.
 
----
 
 ## Sobre Mí
 
@@ -13,7 +12,6 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 - Comparto mi viaje y conocimientos a través de tutoriales en **YouTube** y cursos en **Udemy**. Creo firmemente que "enseñar es aprender dos veces".
 - Me encanta el equilibrio entre lo funcional y lo visualmente profesional, siempre cuidando el detalle en cada línea de código.
 
----
 
 ## Stack Tecnológico
 
@@ -29,7 +27,6 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 
 </div>
 
----
 
 ## Conectemos
 
@@ -41,7 +38,6 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
 <a href="https://www.mariajhosegarcia.click/" target="blank"><img src="https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
 
 ## Estadísticas de GitHub
 
