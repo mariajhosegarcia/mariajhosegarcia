@@ -1,10 +1,10 @@
-# ¡Hola! Soy María Jhosé García
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-### Desarrolladora de Software | Educadora Tech
+# ¡Hola! Soy María Jhosé García
+
+### Desarrolladora de sistemas | Educadora TECH
 
 Soy una apasionada de la tecnología que convirtió un hobby de la infancia en una carrera sólida y orientada a resultados. Con **más de 4 años de experiencia profesional** (y más de una década experimentando con código), me especializo en transformar procesos de negocio complejos en soluciones digitales eficientes y escalables.
 
