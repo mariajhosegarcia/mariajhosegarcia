@@ -1,9 +1,5 @@
 # ¡Hola! soy María Jhosé García
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ### Desarrolladora de sistemas | Educadora TECH
 
 Soy una apasionada de la tecnología que convirtió un hobby de la infancia en una carrera sólida y orientada a resultados. Con **más de 4 años de experiencia profesional** (y más de una década experimentando con código), me especializo en transformar procesos de negocio complejos en soluciones digitales eficientes y escalables.
@@ -53,9 +49,10 @@ Soy una apasionada de la tecnología que convirtió un hobby de la infancia en u
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariajhosegarcia&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Maria" /><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajhosegarcia&layout=compact&theme=tokyonight" alt="Lenguajes de Maria" />
 </p>
-
----
-
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 <p align="center">
   <i>"El código es el pincel con el que pinto soluciones para el mundo real."</i>
 </p>
