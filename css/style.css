@@ -127,6 +127,7 @@ section {
 
 .hero-content h1 {
     font-size: 4.5rem;
+    font-weight: 900;
     line-height: 1.1;
     margin-bottom: 1.5rem;
     background: linear-gradient(45deg, var(--primary), var(--secondary));
@@ -341,7 +342,7 @@ section {
 }
 
 .social-links a {
-    color: var(--primary);
+    color: var(--text-dark);
     font-size: 1.1rem;
     text-decoration: none;
     font-weight: 600;
@@ -353,7 +354,7 @@ section {
 
 .social-links a:hover {
     background: var(--secondary);
-    color: var(--white);
+    color: var(--light);
     transform: scale(1.1);
 }
 

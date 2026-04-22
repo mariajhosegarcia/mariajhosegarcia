@@ -33,8 +33,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const copyStatus = document.getElementById('copy-status');
     
     // Obfuscated email components
-    const user = "hola";
-    const domain = "mariajosegarcia.com";
+    const user = "mariajhosegarcia";
+    const domain = "gmail.com";
     const fullEmail = `${user}@${domain}`;
 
     if (emailDisplay) {
