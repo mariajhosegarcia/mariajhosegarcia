@@ -1,4 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Mobile Menu Toggle Logic
+    const menuIcon = document.getElementById('menu-icon');
+    const navLinks = document.querySelector('nav ul');
+    const icon = menuIcon.querySelector('i');
+
+    if (menuIcon) {
+        menuIcon.addEventListener('click', () => {
+            navLinks.classList.toggle('nav-active');
+            
+            // Toggle between bars and X icon
+            if (navLinks.classList.contains('nav-active')) {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-xmark');
+            } else {
+                icon.classList.remove('fa-xmark');
+                icon.classList.add('fa-bars');
+            }
+        });
+    }
+
+    // Close menu when a link is clicked (useful for mobile UX)
+    document.querySelectorAll('nav ul li a').forEach(link => {
+        link.addEventListener('click', () => {
+            navLinks.classList.remove('nav-active');
+            icon.classList.remove('fa-xmark');
+            icon.classList.add('fa-bars');
+        });
+    });
+
     // Email Protection Logic
     const emailDisplay = document.getElementById('email-display');
     const copyStatus = document.getElementById('copy-status');
