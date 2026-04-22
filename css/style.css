@@ -387,6 +387,7 @@ footer {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 1.5rem;
+    align-items: start;
 }
 
 .skill-item {
@@ -426,6 +427,10 @@ footer {
 .skill-header .toggle-icon {
     font-size: 0.8rem;
     transition: var(--transition);
+}
+
+.skill-item.active {
+    background: var(--light);
 }
 
 .skill-item.active .toggle-icon {
